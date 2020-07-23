@@ -18,6 +18,6 @@ public class ScoreCollectionTest {
         int actualResult = collection.arithmeticMean();
 
         // 단언
-        assertThat(actualResult, equalTo(6));
+        assertThat(actualResult, equalTo(7));
     }
 }
